@@ -19,5 +19,7 @@ yg harus ditambah:
     - bot bermain acak
 - tambahan waktu
 - dekorasi tambahan
+- merapihkan filenya
 - membenarkan portfolio
+
 ===========================
