@@ -1,6 +1,8 @@
 # tic-tac-toe
 mini game
+https://fechl.github.io/tic-tac-toe/
 
+===========================
 yg harus ditambah:
 - ganti icon web
 - border utk kontainer
@@ -17,3 +19,4 @@ yg harus ditambah:
 - tambahan waktu
 - dekorasi tambahan
 - membenarkan portfolio
+===========================
