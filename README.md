@@ -1,7 +1,17 @@
 # tic-tac-toe
-mini game
-https://fechl.github.io/tic-tac-toe/
 
+Tic-tac-toe dengan javascript
+
+## How to play
+
+- buka https://fechl.github.io/tic-tac-toe
+- click pada kotak hitam untuk bermain
+- setiap game **X** dan **)** bergantian
+- tombol **CLEAR** untuk membersihkan
+- tombol **RESET** untuk mereset score
+
+
+## Notes
 ===========================
 
 yg harus ditambah:
