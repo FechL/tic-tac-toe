@@ -6,7 +6,7 @@ Tic-tac-toe dengan javascript
 
 - buka https://fechl.github.io/tic-tac-toe
 - click pada kotak hitam untuk bermain
-- setiap game **X** dan **)** bergantian
+- setiap game **X** dan **O** bergantian
 - tombol **CLEAR** untuk membersihkan
 - tombol **RESET** untuk mereset score
 
