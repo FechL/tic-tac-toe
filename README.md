@@ -10,11 +10,14 @@ Tic-tac-toe dengan javascript
 - tombol **CLEAR** untuk membersihkan
 - tombol **RESET** untuk mereset score
 
+## Contributing
+Pull request dipersilakan. Untuk perubahan yang besar, silakan membuat issue terlebih dahulu untuk mendiskusikan apa yang ingin Anda ubah.
+
+Please make sure to update tests as appropriate.
 
 ## Notes
-===========================
 
-yg harus ditambah:
+### Yang harus ditambah:
 - ganti icon web
 - border utk kontainer
 - dekorasi bagian bawah
@@ -32,4 +35,3 @@ yg harus ditambah:
 - merapihkan filenya
 - membenarkan portfolio
 
-===========================
